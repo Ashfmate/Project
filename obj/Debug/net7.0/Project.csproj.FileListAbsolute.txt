@@ -1,0 +1,15 @@
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+d:\VSCode Projects\Project\bin\Debug\net7.0\Project.exe
+d:\VSCode Projects\Project\bin\Debug\net7.0\Project.deps.json
+d:\VSCode Projects\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+d:\VSCode Projects\Project\bin\Debug\net7.0\Project.dll
+d:\VSCode Projects\Project\bin\Debug\net7.0\Project.pdb
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.dll
+d:\VSCode Projects\Project\obj\Debug\net7.0\refint\Project.dll
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.pdb
+d:\VSCode Projects\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+d:\VSCode Projects\Project\obj\Debug\net7.0\ref\Project.dll
